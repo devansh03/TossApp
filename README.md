@@ -1,16 +1,5 @@
-# toss_app
+# TOSS APP
 
-A new Flutter project.
+An app to do a toss without having a coin. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this app, you get to choose whether you want Heads or Tails, then the coin will be flipped and you will get the result, i.e. whether you won or lost the toss. Also the image of the side i.e. whether it's Heads or Tails will also be shown.
